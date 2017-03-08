@@ -70,9 +70,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
+		'login' => 'root',
+		'password' => 'mccoubrey22',
+		'database' => 'deltion-itt',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
@@ -81,10 +81,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'test_database_name',
+		'login' => 'root',
+		'password' => 'mccoubrey22',
+		'database' => 'deltion-itt',
 		'prefix' => '',
-		//'encoding' => 'utf8',
 	);
 }
